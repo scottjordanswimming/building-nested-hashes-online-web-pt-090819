@@ -1,5 +1,5 @@
 def second_challenge
-epic_tragedy = {
+  epic_tragedy = {
    :montague => {
       :patriarch => {},
       :matriarch => {},
@@ -13,5 +13,6 @@ epic_tragedy = {
       :heroine_friends => []
    }
 }
- 
+  
 end
+
